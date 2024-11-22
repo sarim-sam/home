@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" enable-background="new 0 0 64 64" viewBox="0 0 64 64" id="shack">
+  <polygon fill="#E15F5A" points="50.411 4.731 50.411 15.163 48.433 13.532 42.671 8.79 42.671 4.731"></polygon>
+  <rect width="49.66" height="38.015" x="7.165" y="23.219" fill="#E0E1E0"></rect>
+  <polygon fill="#F26E62" points="56.825 23.29 56.825 23.219 7.165 23.219 7.165 23.29 3.708 23.29 32.005 0 41.723 8.005 42.671 8.79 48.433 13.532 50.411 15.163 60.292 23.29"></polygon>
+  <rect width="3.304" height=".071" x="7.165" y="23.219" fill="#F26E62"></rect>
+  <rect width="3.294" height=".071" x="53.531" y="23.219" fill="#F26E62"></rect>
+  <rect width="49.66" height=".071" x="7.165" y="23.219" fill="#F26E62"></rect>
+  <path fill="#FEDC7D" d="M58.93,64H5.159c-0.708,0-1.282-0.574-1.282-1.282v-0.199c0-0.708,0.574-1.282,1.282-1.282H58.93
+		c0.708,0,1.282,0.574,1.282,1.282v0.199C60.212,63.426,59.638,64,58.93,64z"></path>
+  <rect width="9.745" height="2.93" x="41.666" y="1.809" fill="#F26E62"></rect>
+  <rect width="56.584" height="1.621" x="3.708" y="23.29" fill="#E15F5A"></rect>
+  <path fill="#93CDBE" d="M52.452,61.237h-13.26V47.545c0-3.662,2.968-6.63,6.63-6.63l0,0c3.662,0,6.63,2.968,6.63,6.63V61.237z"></path>
+  <rect width="9.025" height="9.025" x="11.544" y="32.72" fill="#EDEDED"></rect>
+  <rect width="7.364" height="7.364" x="12.375" y="33.551" fill="#93CDBE"></rect>
+  <rect width="9.025" height="9.025" x="11.544" y="44.656" fill="#EDEDED"></rect>
+  <rect width="7.364" height="7.364" x="12.375" y="45.487" fill="#93CDBE"></rect>
+  <rect width="9.025" height="9.025" x="22.814" y="32.72" fill="#EDEDED"></rect>
+  <rect width="7.364" height="7.364" x="23.644" y="33.551" fill="#93CDBE"></rect>
+  <rect width="9.025" height="9.025" x="22.814" y="44.656" fill="#EDEDED"></rect>
+  <rect width="7.364" height="7.364" x="23.644" y="45.487" fill="#93CDBE"></rect>
+  <circle cx="45.822" cy="32.279" r="3.569" fill="#75BBA7"></circle>
+</svg>
